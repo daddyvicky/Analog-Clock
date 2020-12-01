@@ -9,7 +9,7 @@ body{
     border-radius: 50%;
     border: 14px solid rgb(53, 53, 53);
     position: relative;
-    box-shadow: 0 0 25px -1px rgb(255, 255, 255);
+    box-shadow: 0 0 25px -1px rgb(255, 255, 255); 
 }
 .dot{
     width: 14px;
