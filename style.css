@@ -148,3 +148,13 @@ span{
     z-index: 3;
     letter-spacing: 3px;
 }
+footer{
+    position: absolute;
+    bottom: 20px;
+    width: 100vw;
+    text-align: center;
+}
+footer div{
+    display: inline;
+    color: red;
+}
