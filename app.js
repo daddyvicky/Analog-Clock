@@ -30,7 +30,7 @@ function clock(){
     weekday[2]="Tuesday";
     weekday[3]="Wednesday";
     weekday[4]="Thursday";
-    weekday[5]="Friday";
+    weekday[5]="Friday"; 
     weekday[6]="Saturday";
     var day = weekday[d.getDay()];
     hE1.style.transform= "rotate("+ hDeg +"deg)";
